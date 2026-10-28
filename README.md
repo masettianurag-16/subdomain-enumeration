@@ -247,41 +247,19 @@ Unknown URLs render `404.html`. Unhandled exceptions render `500.html` instead o
 
 ## 10. Screenshots
 
-Screenshots are not stored in this repository. After you run the app, you can capture these pages and replace the placeholders.
-
 ### Home page
+<img width="1897" height="902" alt="Screenshot 2026-10-28 215520" src="https://github.com/user-attachments/assets/d14b7237-a23c-48c6-8e77-9472c7040947" />
+<img width="1890" height="891" alt="Screenshot 2026-10-28 215539" src="https://github.com/user-attachments/assets/f077b231-c25a-462a-ae4a-dbc36c094c02" />
+<img width="1896" height="912" alt="image" src="https://github.com/user-attachments/assets/a1e4af4a-5ab3-45fa-9ba9-6da44e8820c1" />
 
-![Home page – domain input and authorized-use warning](screenshots/home.png)
 
-*Add a screenshot of the Home page showing the form and security notice.*
 
 ### Results page
+<img width="1886" height="911" alt="Screenshot 2026-10-28 215711" src="https://github.com/user-attachments/assets/efc7d1fd-175e-412a-8b40-29e1f6a63648" />
+<img width="1881" height="905" alt="Screenshot 2026-10-28 215725" src="https://github.com/user-attachments/assets/a72a999f-c870-4820-b2ee-a3e055e4b0ce" />
 
-![Results page – subdomain table](screenshots/results.png)
 
-*Add a screenshot of a completed scan with Found / Not Found rows.*
 
-### How It Works page
-
-![How It Works page](screenshots/how-it-works.png)
-
-*Add a screenshot of the step-by-step explanation.*
-
-### Documentation page
-
-![Documentation page](screenshots/documentation.png)
-
-*Add a screenshot of the in-app documentation and security notice.*
-
-### 404 page
-
-![404 page](screenshots/404.png)
-
-*Optional: visit a non-existent URL such as http://127.0.0.1:5000/does-not-exist*
-
-**Tip:** Create a `screenshots` folder in this project, save PNG files with the names above, and the images will appear in this README on GitHub.
-
----
 
 ## 11. Security Considerations and Limitations
 
